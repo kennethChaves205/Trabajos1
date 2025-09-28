@@ -2,7 +2,6 @@
 
 Este repositorio contiene los proyectos de prácticas de Java.
 
-Este repositorio contiene los proyectos de prácticas de Java:
 
 ### 1. Mainnn
 - [Cliente.java](Mainnn/src/Cliente.java)
