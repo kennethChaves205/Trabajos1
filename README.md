@@ -1,10 +1,16 @@
 # Trabajos1
 
+Este repositorio contiene los proyectos de prácticas de Java.
+
 Este repositorio contiene los proyectos de prácticas de Java:
 
-- Mainnn
-- Practica1
-- Practica2sem
-- ProyectoPrueba
-- main
+### 1. Mainnn
+- [Cliente.java](Mainnn/src/Cliente.java)
+- [Main.java](Mainnn/src/Main.java)
+- [Suscripcion.java](Mainnn/src/Suscripcion.java)
+
+
+### 5. main
+- [Main.java](main/src/Main.java)
+- [Perro.java](main/src/Perro.java)
 
